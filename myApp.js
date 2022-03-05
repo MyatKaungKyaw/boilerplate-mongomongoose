@@ -51,6 +51,8 @@ const queryChain = (done) => {
   done(null /*, data*/);
 };
 
+console.log('first push');
+
 /** **Well Done !!**
 /* You completed these challenges, let's go celebrate !
  */
